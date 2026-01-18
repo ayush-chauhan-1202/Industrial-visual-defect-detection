@@ -1,0 +1,3 @@
+Trained models includes:
+Training data: Good images of Tile Categoty from MVTec AD dataset
+Naming convention: model_{data_category}{number of epochs}.pth
