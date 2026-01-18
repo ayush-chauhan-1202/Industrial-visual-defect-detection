@@ -56,7 +56,7 @@ data/mvtec/tile/
 ├── test/oil/
 └── ground_truth/
 ```
-Examples from **tile** class data: 
+Examples from **tile** class data (Good, Anomaly and Anomaly mask) : 
 
 
 <img width="200" height="200" alt="008" src="https://github.com/user-attachments/assets/a3fbca8b-529d-4781-a948-f4d7eb439ae2" title="good image"/>
