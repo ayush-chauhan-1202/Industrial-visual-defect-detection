@@ -47,6 +47,7 @@ We use the MVTec Anomaly Detection dataset, a widely adopted benchmark for indus
 
 Expected directory structure:
 
+```
 data/mvtec/tile/
 ├── train/good/
 ├── test/good/
@@ -54,6 +55,7 @@ data/mvtec/tile/
 ├── test/glue_strip/
 ├── test/oil/
 └── ground_truth/
+```
 
 # Approach Overview
 This project implements reconstruction-based anomaly detection using a U-Net–style convolutional autoencoder.
@@ -174,15 +176,19 @@ This makes the approach interpretable, a key requirement for real-world inspecti
 # How to run
 
 **Install dependencies**
+
 ``` pip install -r requirements```
 
 **train model**
+
 ```python train.py ```
 
 **Run Inference**
+
 ```python infer.py ```
 
 **Evaluate AUROC**
+
 ```python eval.py ```
 
 
