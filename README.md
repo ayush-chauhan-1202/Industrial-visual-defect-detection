@@ -90,6 +90,9 @@ Pipeline:
 # Model Architecture
 The model is a U-Net–style convolutional autoencoder, not a plain autoencoder.
 
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/07e73eb2-0a48-41dc-b08e-9861118f1c80" />
+
+
 Key characteristics:
 
 - Fully convolutional encoder–decoder
