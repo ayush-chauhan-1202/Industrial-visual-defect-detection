@@ -58,12 +58,12 @@ data/mvtec/tile/
 ```
 Examples from **tile** class data: 
 
-good image
-<img width="200" height="200" alt="008" src="https://github.com/user-attachments/assets/a3fbca8b-529d-4781-a948-f4d7eb439ae2" />
-Anomaly image (Crack)
-<img width="200" height="200" alt="005" src="https://github.com/user-attachments/assets/a979dd7b-a03a-4fe2-8fe4-83fc7235878a" />
-Anomaly image mask (for reference)
-<img width="200" height="200" alt="005_mask" src="https://github.com/user-attachments/assets/35e1c8f0-2de5-4093-a8e8-8432f549d092" />
+
+<img width="200" height="200" alt="008" src="https://github.com/user-attachments/assets/a3fbca8b-529d-4781-a948-f4d7eb439ae2" title="good image"/>
+
+<img width="200" height="200" alt="005" src="https://github.com/user-attachments/assets/a979dd7b-a03a-4fe2-8fe4-83fc7235878a" title="Anomaly image (Crack)"/>
+
+<img width="200" height="200" alt="005_mask" src="https://github.com/user-attachments/assets/35e1c8f0-2de5-4093-a8e8-8432f549d092" title="Anomaly image mask (for reference)" />
 
 
 # Approach Overview
