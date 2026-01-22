@@ -176,14 +176,13 @@ During inference, the pipeline produces:
 
 - Pixel-wise anomaly heatmap
 
-  <img width="851" height="410" alt="image" src="https://github.com/user-attachments/assets/141d8456-f416-451a-a3aa-58f777b065dc" />
-
-
 Typical behavior:
 
 - Good samples → low reconstruction error
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/87197eeb-32f2-4cb3-931e-3d1d4b390000" />
 
 - Defective regions → localized high-intensity error
+<img width="500" height="250" alt="image" src="https://github.com/user-attachments/assets/141d8456-f416-451a-a3aa-58f777b065dc" />
 
 This makes the approach interpretable, a key requirement for real-world inspection systems.
 
