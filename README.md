@@ -163,7 +163,7 @@ Measures how well anomaly scores separate good vs anomalous images.
 
 Result on **tile** category:
 
-**AUROC ≈ 0.75**
+**AUROC ≈ 0.79**
 
 This is a strong baseline for a reconstruction-based approach and provides a foundation for more advanced methods (PatchCore, PaDiM, DRAEM, FastFlow, etc.).
 
