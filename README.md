@@ -176,6 +176,9 @@ During inference, the pipeline produces:
 
 - Pixel-wise anomaly heatmap
 
+  <img width="851" height="410" alt="image" src="https://github.com/user-attachments/assets/141d8456-f416-451a-a3aa-58f777b065dc" />
+
+
 Typical behavior:
 
 - Good samples → low reconstruction error
